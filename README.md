@@ -10,7 +10,7 @@ Prof. Chou delivers this lecture with the support of MIE Department, Northeaster
 Here are a few prerequisites that will help in better understanding the concepts used in this research technique.
 - Predictive Analytics, Supervised learning and Bayes' Theorem
 - Association rule mining and its evaluation metrics
-- Operation Research basics such as Mixed Integer programming
+- Operation Research basics such as MIP (Mixed Integer Programming)
 
 You can find the content used in the session in this repository. Please follow these steps to use the tutorial in the jupyter notebook.
 
