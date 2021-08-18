@@ -6,12 +6,13 @@ Prof. Chou delivers this lecture with the support of MIE Department, Northeaster
 
 **Reference:** _Chun-An Chou, Qingtao Cao, Shao-Jen Weng, Che-Hung Tsai, Mixed-Integer Optimization Approach to Learning Association Rules for Unplanned ICU Transfer, Artificial Intelligence in Medicine, 103, 101806, 2020_
 
-### Prerequisites and Installation
+### Prerequisites: 
 Here are a few prerequisites that will help in better understanding the concepts used in this research technique.
 - Predictive Analytics, Supervised learning and Bayes' Theorem
 - Association rule mining and its evaluation metrics
 - Operation Research basics such as MIP (Mixed Integer Programming)
 
+### Installation:
 You can find the content used in the session in this repository. Please follow these steps to use the tutorial in the jupyter notebook.
 
 1. Clone the repository at your local directory using following command.
