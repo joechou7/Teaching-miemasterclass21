@@ -16,5 +16,5 @@ You can find the content used in the session in this repository. Please follow t
  git clone https://github.com/joechou7/miemasterclass21.git
 ```
 2. Please follow the [installation guide](https://github.com/joechou7/miemasterclass21/blob/main/Python%20%26%20Gurobi%20Installation%20Guide%202021.pdf) and make sure to get gurobi license.
-3. Open the Jupyter Notebook and start working.
+3. Open the Jupyter Notebook and start using.
 
