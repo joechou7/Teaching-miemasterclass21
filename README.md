@@ -1,4 +1,4 @@
-# MIE Summer Master Class'21 <WIP>
+# MIE Summer Master Class'21 - WIP
 
 ### Welcome to the MIE Master Class on 'Computational Optimization for Data Analytics'.
 
