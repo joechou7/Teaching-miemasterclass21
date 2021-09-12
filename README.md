@@ -26,6 +26,7 @@ You can find the content used in the session in this repository. Please follow t
 ### Dataset Description:
 
 We will be using the ARSOM technique on the following dummy dataset-
+
 **Toydata**: This is a small dummy dataset used for explaining the working of ARSOM in a fundamental way. Students will be able to grasp the working of different functions used in the code and the underlying principles with this data .
 
 
