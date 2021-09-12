@@ -29,7 +29,7 @@ We will be using the ARSOM technique on the following two datasets-
 1. **Toydata**: This is a small dummy dataset used for explaining the working of ARSOM in a fundamental way. Students will be able to grasp the working of different functions used in the code and the underlying principles with this data .
 
 
-[//]: # 2. **ICU Transfer**: This dataset is an industrial example of using ARSOM to optimize decision making process. We gather data from a hospital's medical records for ICU [//]: # transfer decisions for patients, their medical history and biometric symptoms. The size of this dataset is large and might take too long to run on slower machines.
+[//]: # (2. **ICU Transfer**: This dataset is an industrial example of using ARSOM to optimize decision making process. We gather data from a hospital's medical records for ICU transfer decisions for patients, their medical history and biometric symptoms. The size of this dataset is large and might take too long to run on slower machines.)
 
 
 
