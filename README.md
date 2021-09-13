@@ -32,5 +32,24 @@ We will be using the ARSOM technique on the following dummy dataset-
 
 [//]: # (2. **ICU Transfer**: This dataset is an industrial example of using ARSOM to optimize decision making process. We gather data from a hospital's medical records for ICU transfer decisions for patients, their medical history and biometric symptoms. The size of this dataset is large and might take too long to run on slower machines.)
 
+|f1 |f2 |f3 |f4 |f5 |Class|
+|---|---|---|---|---|-----|
+|1  |0  |1  |0  |1  |1    |
+|1  |1  |1  |0  |0  |1    |
+|1  |0  |1  |0  |1  |1    |
+|1  |1  |1  |0  |0  |1    |
+|1  |0  |0  |1  |0  |1    |
+|1  |0  |1  |1  |1  |1    |
+|1  |1  |1  |1  |1  |1    |
+|1  |1  |0  |0  |0  |0    |
+|0  |0  |1  |0  |0  |0    |
+|0  |0  |0  |0  |0  |0    |
+|0  |1  |0  |0  |0  |0    |
+|0  |0  |0  |0  |0  |0    |
+|1  |1  |1  |0  |0  |0    |
+|1  |1  |1  |1  |0  |0    |
+|0  |0  |0  |0  |0  |0    |
+|0  |0  |1  |1  |0  |0    |
+|0  |0  |0  |0  |0  |0    |
 
 
